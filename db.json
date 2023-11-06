@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "name": "Jennie Baumbach",
+      "id": 1
+    },
+    {
+      "name": "Terrance Wyman",
+      "id": 2
+    },
+    {
+      "name": "Mable Lehner",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Elegant Concrete Soap",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Bespoke Concrete Gloves",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Rustic Soft Shirt",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Metal Bike",
+      "id": 4
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5781818437533696",
+      "id": 1
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5558729002975232",
+      "id": 2
+    }
+  ]
+}
